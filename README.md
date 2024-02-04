@@ -8,7 +8,9 @@
 - [ ] nom prénom
 - [ ] qr code
 - [ ] grille où le candidat coche les cases de ses réponses dans un tableau (y : réponse choisie | x : n° question)
+  - [ ] - [ ] [💡] faire en sorte que la grille puisse former un symbole à scanner avec le telephone pour corriger tout seul
 - [ ] 1. question \nA....B....
+- [ ] mélanger les questions
 
 ## CORRIGÉ
 - [ ] lire et pause audio corrigé
@@ -30,3 +32,8 @@
   - [ ] note
 - [ ]  qr code
   - [ ] url
+- [ ] qcm
+  - [ ] qr code
+  - [ ] question
+  - [ ] reponse
+  - [ ] choix
