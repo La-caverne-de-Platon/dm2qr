@@ -1,15 +1,15 @@
 # dm2qr
 
 ## QR Code
-- [ ] générer un QR code par devoir
-- [ ] redirection vers un lien (id unique attention au bruteforce) pour accéder au corrigé
+- [x] générer un QR code par devoir
+- [x] redirection vers un lien (id unique attention au bruteforce) pour accéder au corrigé
 
 ## QCM
-- [ ] nom prénom
-- [ ] qr code
-- [ ] grille où le candidat coche les cases de ses réponses dans un tableau (y : réponse choisie | x : n° question)
+- [x] nom prénom
+- [x] qr code
+- [x] grille où le candidat coche les cases de ses réponses dans un tableau (y : réponse choisie | x : n° question)
   - [ ] - [ ] [💡] faire en sorte que la grille puisse former un symbole à scanner avec le telephone pour corriger tout seul
-- [ ] 1. question \nA....B....
+- [x] 1. question \nA....B....
 - [ ] mélanger les questions
 
 ## CORRIGÉ
