@@ -13,27 +13,27 @@
 - [ ] mélanger les questions
 
 ## CORRIGÉ
-- [ ] lire et pause audio corrigé
-- [ ] liste de commpétences évaluées, avec étoiles type [check-list](https://lacavernedeplaton.fr/eval/index.php)
-- [ ] encadré avec appreciation globale
-  - [ ] possibilité de préselectioner des appreciations
+- [x] lire et pause audio corrigé
+- [x] liste de commpétences évaluées, avec étoiles type [check-list](https://lacavernedeplaton.fr/eval/index.php)
+- [x] encadré avec appreciation globale
+  - [x] possibilité de préselectioner des appreciations
 - [ ] [💡] vidéo de l'écran du correcteur si devoir numérique
   - [ ] interface correcteur
 
 ## DB
-- [ ] devoir
-  - [ ] qr code
-  - [ ] corrigé_wav
-  - [ ] corrigé_appreciation
-  - [ ] compétences_dm
-  - [ ] note
-- [ ] compétences_dm
-  - [ ] compétence
-  - [ ] note
-- [ ]  qr code
-  - [ ] url
-- [ ] qcm
-  - [ ] qr code
-  - [ ] question
-  - [ ] reponse
-  - [ ] choix
+- [x] devoir
+  - [x] qr code
+  - [x] corrigé_wav
+  - [x] corrigé_appreciation
+  - [x] compétences_dm
+  - [x] note
+- [x] compétences_dm
+  - [x] compétence
+  - [x] note
+- [x]  qr code
+  - [x] url
+- [x] qcm
+  - [x] qr code
+  - [x] question
+  - [x] reponse
+  - [x] choix
