@@ -1,4 +1,13 @@
-# dm2qr
+# DM2QR
+
+Un système simple et gratuit pour pouvoir, à propos d'un devoir, dicter son appréciation, lier des compétences argumentatives, et rendre le tout disponible à l'élève via un QR_CODE
+
+
+→ Exemple élève : https://lacavernedeplaton.fr/correction.php?code=OLS9IVV6F0
+
+<hr>
+
+# TODO
 
 ## QR Code
 - [x] générer un QR code par devoir
